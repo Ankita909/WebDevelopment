@@ -1,0 +1,14 @@
+input[type="text"]{
+    color: red;
+    background: #000;
+}
+
+input[type="password"]{
+    color:white;
+    background-color: #000;
+}
+
+input[type="submit"]{
+    color:white;
+    background-color: rgb(102, 19, 226);
+}
